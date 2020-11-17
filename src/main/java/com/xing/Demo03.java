@@ -13,7 +13,15 @@ public class Demo03 {
         //小数：浮点数
         float num44= 4.4f; //float类型要在数值后面加上一个f
         double num88=8.8;
-        boolean num11=true;
+
+        //字符
+        char num22='一'; //char类型只能有一个字符，多了不行
+        //String是一个类，一个字符串
+        String num222="我是类，是字符串，不是基本类型";
+
+        //布尔值,只有两个目标值，true和false
+        boolean flag0=true;
+        boolean flag1=false;
 
     }
 
