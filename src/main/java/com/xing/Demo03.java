@@ -13,6 +13,7 @@ public class Demo03 {
         //小数：浮点数
         float num44= 4.4f; //float类型要在数值后面加上一个f
         double num88=8.8;
+        boolean num11=true;
 
     }
 
