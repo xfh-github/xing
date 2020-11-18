@@ -23,6 +23,8 @@ public class Demo03 {
         boolean flag0=true;
         boolean flag1=false;
 
+        //引用类型：类，接口，数组
+
     }
 
 
