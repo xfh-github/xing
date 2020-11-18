@@ -1,4 +1,4 @@
-package com.xing;
+package com.xing.base;
 
 public class Demo07 {
     static int e=1;              //类变量，需要加一个static关键词

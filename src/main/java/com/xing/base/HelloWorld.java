@@ -1,4 +1,4 @@
-package com.xing;
+package com.xing.base;
 
 public class HelloWorld {
     //student是变量，可以变化的值

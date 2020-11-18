@@ -1,4 +1,4 @@
-package com.operator;
+package com.xing.operator;
 
 public class Demo02 {
     public static void main(String[] args) {

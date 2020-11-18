@@ -1,4 +1,4 @@
-package com.xing;
+package com.xing.base;
 
 public class Demo09 {
     //常量：final修饰 常量名首字母大写 其实指的是特定的变量，被赋予不可改变的值

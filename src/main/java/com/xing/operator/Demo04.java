@@ -1,4 +1,4 @@
-package com.operator;
+package com.xing.operator;
 
 public class Demo04 {
     public static void main(String[] args) {
@@ -16,6 +16,9 @@ public class Demo04 {
         System.out.println ("a="+a);
         System.out.println ("b="+b);
         System.out.println ("c="+c);
+        System.out.println ("===========");
+        double pow = Math.pow (3, 3);
+        System.out.println (pow);
 
     }
 }

@@ -1,4 +1,4 @@
-package com.xing;
+package com.xing.base;
 
 public class Demo05 {
     //类型转换

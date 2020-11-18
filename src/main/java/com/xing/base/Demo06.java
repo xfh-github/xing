@@ -1,4 +1,4 @@
-package com.xing;
+package com.xing.base;
 
 public class Demo06 {
     public Demo06(String name) {

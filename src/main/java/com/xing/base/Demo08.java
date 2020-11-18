@@ -1,4 +1,4 @@
-package com.xing;
+package com.xing.base;
 
 public class Demo08 {
     //属性：变量
